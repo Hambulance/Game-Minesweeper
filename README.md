@@ -1,5 +1,5 @@
 
-2. Open `index.html` in your web browser
+Open `index.html` in your web browser
 
 ## Technologies Used 🛠️
 
